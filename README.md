@@ -1,2 +1,2 @@
 # barcrawl-router
-for creating distance-fixed barcrawls
+script for creating distance-fixed barcrawls
